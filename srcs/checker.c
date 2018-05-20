@@ -6,10 +6,11 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/16 18:42:20 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/18 15:04:53 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/20 17:33:12 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "global.h"
 #include "checker.h"
 #include "libft.h"
 
@@ -44,25 +45,7 @@ static t_tab *init_table(void)
 	return (g_tab);
 }
 
-void	create_list(int count, char **numbers, t_stack **list_a)
-{
-	t_stack *tmp;
 
-	*list_a = malloc(sizeof(t_stack));
-	(*list_a)->nb = ft_atoi(*numbers);
-	(*list_a)->next = NULL;
-	numbers++;
-	tmp = *list_a;
-	while (count > 0)
-	{
-		tmp->next = malloc(sizeof(t_stack));
-		(tmp->next)->nb = ft_atoi(*numbers);
-		tmp = tmp->next;
-		numbers++;
-		count--;
-	}
-	tmp->next = NULL;
-}
 void	display_check(t_stack *list_a, t_stack *list_b)
 {
 	while (list_a->next)
@@ -89,7 +72,8 @@ void	checker(int count, char **numbers)
 	
 	list_a = NULL;
 	list_b = NULL;
-	create_list(count - 1, numbers + 1, &list_a); 
+	if (create_list(count - 1, numbers + 1, &list_a) == 0)
+		return (error(list_a, list_b) + 0);
 	print_list(list_a);
 	table = init_table();
 	while (get_next_line(1, &instruction))

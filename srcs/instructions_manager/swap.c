@@ -6,11 +6,11 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/17 12:09:08 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/17 21:59:07 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/20 17:32:16 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "checker.h"
+#include "global.h"
 
 void	sb(t_stack **list_a, t_stack **list_b)
 {

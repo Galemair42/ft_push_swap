@@ -1,20 +1,18 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   push_swap.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2018/05/16 19:14:15 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:33:06 by galemair         ###   ########.fr       */
+/*   Created: 2018/05/20 17:26:32 by galemair          #+#    #+#             */
+/*   Updated: 2018/05/20 18:45:47 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "global.h"
 
-int	main(int argc, char **argv)
+void	push_swap(t_stack *list_a, t_stack *list_b)
 {
-	if (argc > 1)
-		checker((argc - 1), argv);
-	return (0);
+
 }

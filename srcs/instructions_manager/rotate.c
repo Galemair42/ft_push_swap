@@ -6,11 +6,11 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/17 14:18:03 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/18 12:00:06 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/20 17:31:59 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "checker.h"
+#include "global.h"
 
 void		ra(t_stack **list_a, t_stack **list_b)
 {

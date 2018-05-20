@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   main_push_swap.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2018/05/16 19:14:15 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:33:06 by galemair         ###   ########.fr       */
+/*   Created: 2018/05/20 14:53:52 by galemair          #+#    #+#             */
+/*   Updated: 2018/05/20 17:33:49 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,16 @@
 
 int	main(int argc, char **argv)
 {
+	t_stack	*list_a;
+	t_stack	*list_b;
+
+	list_a = NULL;
+	list_b = NULL;
 	if (argc > 1)
-		checker((argc - 1), argv);
+	{
+		if (create_list(count - 1, numbers + 1, numbers + 1, &list_a) == 0)
+			return (error(list_a, list_b) + 0);
+		push_swap(list_a, list_b);
+	}
 	return (0);
 }

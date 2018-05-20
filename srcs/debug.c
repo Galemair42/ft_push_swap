@@ -6,11 +6,11 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/16 19:04:18 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/18 14:24:15 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/20 17:32:37 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "checker.h"
+#include "global.h"
 
 void	print_list(t_stack *list)
 {

@@ -1,20 +1,33 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   main.c                                             :+:      :+:    :+:   */
+/*   create_list.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2018/05/16 19:14:15 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:33:06 by galemair         ###   ########.fr       */
+/*   Created: 2018/05/20 14:48:00 by galemair          #+#    #+#             */
+/*   Updated: 2018/05/20 17:32:44 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "global.h"
 
-int	main(int argc, char **argv)
+int		create_list(int count, char **numbers, t_stack **list_a)
 {
-	if (argc > 1)
-		checker((argc - 1), argv);
-	return (0);
+	t_stack *tmp;
+
+	*list_a = malloc(sizeof(t_stack));
+	(*list_a)->nb = ft_atoi(*numbers);
+	(*list_a)->next = NULL;
+	numbers++;
+	tmp = *list_a;
+	while (count > 0)
+	{
+		tmp->next = malloc(sizeof(t_stack));
+		(tmp->next)->nb = ft_atoi(*numbers);
+		tmp = tmp->next;
+		numbers++;
+		count--;
+	}
+	tmp->next = NULL;
 }
