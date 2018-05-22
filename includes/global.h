@@ -6,34 +6,38 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/20 17:30:38 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:30:45 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/22 14:57:13 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GLOBAL_H
 # define GLOBAL_H
 
+#include <stdlib.h>
+#include "libft.h"
+
 typedef	struct s_stack	t_stack;
 
 struct			s_stack
 {
 	int			nb;
+	int			index;
 	t_stack		*next;
 };
 
 void			ft_printf(const char *str, ...);
-void			sa(t_stack **list_a, t_stack **list_b);
-void			sb(t_stack **list_a, t_stack **list_b);
-void			ss(t_stack **list_a, t_stack **list_b);
-void			pa(t_stack **list_a, t_stack **list_b);
-void			pb(t_stack **list_a, t_stack **list_b);
-void			ra(t_stack **list_a, t_stack **list_b);
-void			rb(t_stack **list_a, t_stack **list_b);
-void			rr(t_stack **list_a, t_stack **list_b);
-void			rra(t_stack **list_a, t_stack **list_b);
-void			rrb(t_stack **list_a, t_stack **list_b);
-void			rrr(t_stack **list_a, t_stack **list_b);
-void			error(t_stack **list_a, t_stack **list_b);
+void			sa(t_stack **list_a, t_stack **list_b, int display);
+void			sb(t_stack **list_a, t_stack **list_b, int display);
+void			ss(t_stack **list_a, t_stack **list_b, int display);
+void			pa(t_stack **list_a, t_stack **list_b, int display);
+void			pb(t_stack **list_a, t_stack **list_b, int display);
+void			ra(t_stack **list_a, t_stack **list_b, int display);
+void			rb(t_stack **list_a, t_stack **list_b, int display);
+void			rr(t_stack **list_a, t_stack **list_b, int display);
+void			rra(t_stack **list_a, t_stack **list_b, int display);
+void			rrb(t_stack **list_a, t_stack **list_b, int display);
+void			rrr(t_stack **list_a, t_stack **list_b, int display);
+void			error(t_stack **list_a, t_stack **list_b, int display);
 /*
  **-------------DEBUG.C--------------
  */

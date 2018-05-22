@@ -6,13 +6,14 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/17 14:22:05 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:31:30 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/22 15:19:27 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "global.h"
 
-void	error(t_stack **list_a, t_stack **list_b)
+void	error(t_stack **list_a, t_stack **list_b, int display)
 {
+	display++;
 	ft_printf("ERROR\n");
 }

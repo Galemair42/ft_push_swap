@@ -1,27 +1,36 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   utils.c                                            :+:      :+:    :+:   */
+/*   push_swap.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2018/05/22 15:06:28 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/22 15:17:01 by galemair         ###   ########.fr       */
+/*   Created: 2018/05/22 14:15:32 by galemair          #+#    #+#             */
+/*   Updated: 2018/05/22 15:33:11 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#ifndef PUSH_SWAP_H
+# define PUSH_SWAP_H
+
 #include "global.h"
-#include <limits.h>
 
-int		get_list_size(t_stack *list)
-{
-	int count;
+void	push_swap(t_stack *list_a, t_stack *list_b);
 
-	count = 0;
-	while (list)
-	{
-		list = list->next;
-		count++;
-	}
-	return (count);
-}
+/*
+**			DEBUG.C
+*/
+void	print_list(t_stack *list);
+/*
+**			CHECK_STACK.C
+*/
+int		check_inferior_value_stack(t_stack *list, int median);
+/*
+**			PRE_SORT.C
+*/
+void	pre_sort(t_stack *list);
+/*
+**			UTILS.C
+*/
+int		get_list_size(t_stack *list);
+#endif

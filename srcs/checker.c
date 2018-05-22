@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/16 18:42:20 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:33:12 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/22 14:56:00 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -81,7 +81,7 @@ void	checker(int count, char **numbers)
 		i = 0;
 		while (ft_strcmp(instruction, table[i].str) != 0 && ft_strcmp("end", table[i].str) != 0)
 			i++;
-		table[i].f(&list_a, &list_b);
+		table[i].f(&list_a, &list_b, 0);
 		if (i == 11)
 			return ;
 	}

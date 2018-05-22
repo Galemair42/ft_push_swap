@@ -6,11 +6,12 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/20 14:53:52 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:33:49 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/22 15:18:57 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "global.h"
+#include "push_swap.h"
 
 int	main(int argc, char **argv)
 {
@@ -21,8 +22,11 @@ int	main(int argc, char **argv)
 	list_b = NULL;
 	if (argc > 1)
 	{
-		if (create_list(count - 1, numbers + 1, numbers + 1, &list_a) == 0)
-			return (error(list_a, list_b) + 0);
+		if (create_list(argc - 2, argv + 1, &list_a) == 0)
+		{
+			error(&list_a, &list_b, 0);
+			return (0);
+		}
 		push_swap(list_a, list_b);
 	}
 	return (0);

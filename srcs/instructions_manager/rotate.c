@@ -6,16 +6,18 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/17 14:18:03 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:31:59 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/22 15:18:16 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "global.h"
 
-void		ra(t_stack **list_a, t_stack **list_b)
+void		ra(t_stack **list_a, t_stack **list_b, int display)
 {
 	t_stack *tmp;
 	
+	if (display == 1)
+		ft_printf("ra\n");
 	if (!((*list_a)->next) || !((*list_a)->next))
 		return ;
 	tmp = *list_a;
@@ -27,10 +29,12 @@ void		ra(t_stack **list_a, t_stack **list_b)
 	tmp->next = NULL;
 }
 
-void		rb(t_stack **list_a, t_stack **list_b)
+void		rb(t_stack **list_a, t_stack **list_b, int display)
 {
 	t_stack *tmp;
 
+	if (display == 1)
+		ft_printf("rb\n");
 	if (!((*list_b)->next) || !((*list_b)->next))
 		return ;
 	tmp = *list_b;
@@ -42,8 +46,10 @@ void		rb(t_stack **list_a, t_stack **list_b)
 	tmp->next = NULL;
 }
 
-void		rr(t_stack **list_a, t_stack **list_b)
+void		rr(t_stack **list_a, t_stack **list_b, int display)
 {
-	ra(list_a, list_b);
-	rb(list_a, list_b);
+	if (display == 1)
+		ft_printf("rr\n");
+	ra(list_a, list_b, 0);
+	rb(list_a, list_b, 0);
 }

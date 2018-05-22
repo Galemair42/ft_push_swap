@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/20 14:48:00 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:32:44 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/22 14:29:01 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@ int		create_list(int count, char **numbers, t_stack **list_a)
 
 	*list_a = malloc(sizeof(t_stack));
 	(*list_a)->nb = ft_atoi(*numbers);
+	(*list_a)->index = -1;
 	(*list_a)->next = NULL;
 	numbers++;
 	tmp = *list_a;
@@ -25,9 +26,11 @@ int		create_list(int count, char **numbers, t_stack **list_a)
 	{
 		tmp->next = malloc(sizeof(t_stack));
 		(tmp->next)->nb = ft_atoi(*numbers);
+		(tmp->next)->index = -1;
 		tmp = tmp->next;
 		numbers++;
 		count--;
 	}
 	tmp->next = NULL;
+	return (1);
 }
