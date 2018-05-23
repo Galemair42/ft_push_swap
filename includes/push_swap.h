@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/22 14:15:32 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/22 15:33:11 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/23 17:25:14 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,4 +33,5 @@ void	pre_sort(t_stack *list);
 **			UTILS.C
 */
 int		get_list_size(t_stack *list);
+int		find_smallest(t_stack *list);
 #endif
