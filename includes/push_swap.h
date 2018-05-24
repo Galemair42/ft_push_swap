@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/22 14:15:32 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/23 17:25:14 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/24 18:18:28 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,6 +25,7 @@ void	print_list(t_stack *list);
 **			CHECK_STACK.C
 */
 int		check_inferior_value_stack(t_stack *list, int median);
+int		check_superior_value_stack(t_stack *list, int median);
 /*
 **			PRE_SORT.C
 */
