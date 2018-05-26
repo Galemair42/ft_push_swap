@@ -6,11 +6,12 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/16 19:14:15 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/20 17:33:06 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/25 20:50:36 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "global.h"
+#include "checker.h"
 
 int	main(int argc, char **argv)
 {

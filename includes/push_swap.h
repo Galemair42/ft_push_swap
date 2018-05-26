@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/22 14:15:32 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/24 18:18:28 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/25 20:33:14 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,6 +26,7 @@ void	print_list(t_stack *list);
 */
 int		check_inferior_value_stack(t_stack *list, int median);
 int		check_superior_value_stack(t_stack *list, int median);
+int		check_value_in_stack(int value, t_stack *list);
 /*
 **			PRE_SORT.C
 */
@@ -35,4 +36,10 @@ void	pre_sort(t_stack *list);
 */
 int		get_list_size(t_stack *list);
 int		find_smallest(t_stack *list);
+/*
+**			SORT_HELPER.C
+*/
+int		last_elem(t_stack *list);
+void	sort_3elems(t_stack **list_a, t_stack **list_b);
+void	check_ss(t_stack **list_a, t_stack **list_b, char list);
 #endif

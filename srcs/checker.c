@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/16 18:42:20 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/22 14:56:00 by galemair         ###   ########.fr       */
+/*   Updated: 2018/05/25 20:53:49 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -73,7 +73,10 @@ void	checker(int count, char **numbers)
 	list_a = NULL;
 	list_b = NULL;
 	if (create_list(count - 1, numbers + 1, &list_a) == 0)
-		return (error(list_a, list_b) + 0);
+	{
+		error(&list_a, &list_b, 0);
+		return ;
+	}
 	print_list(list_a);
 	table = init_table();
 	while (get_next_line(1, &instruction))
