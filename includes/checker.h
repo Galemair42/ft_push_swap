@@ -21,6 +21,6 @@ typedef struct	s_tab
 /*
  **------------CHECKER.C-------------
  */
-void			checker(int count, char **numbers);
+void			checker(t_stack *list_a, t_stack *list_b);
 
 #endif

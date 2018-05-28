@@ -22,11 +22,12 @@ int	main(int argc, char **argv)
 	list_b = NULL;
 	if (argc > 1)
 	{
-		if (create_list(argc - 2, argv + 1, &list_a) == 0)
+		if (create_list(argc - 1, argv + 1, &list_a) == 0)
 		{
 			error(&list_a, &list_b, 0);
 			return (0);
 		}
+	//	print_list(list_a);
 		push_swap(list_a, list_b);
 	}
 	return (0);

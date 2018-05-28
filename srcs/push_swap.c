@@ -98,8 +98,8 @@ void	sort_list(t_stack **list_a, t_stack **list_b, t_quick *quick)
 	{
 		while (quick->numbers > 0)
 		{
-	//		if ((*list_a)->next->index == (*list_a)->index + 1 && ((*list_a)->next)->sorted == 0)
-	//			sa(list_a, list_b, 1);
+			if ((*list_a)->next->index == (*list_a)->index + 1 && ((*list_a)->next)->sorted == 0)
+				sa(list_a, list_b, 1);
 			if ((*list_a)->index == last_sorted + 1)
 			{
 				last_sorted++;

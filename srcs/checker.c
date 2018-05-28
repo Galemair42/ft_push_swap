@@ -62,24 +62,15 @@ void	display_check(t_stack *list_a, t_stack *list_b)
 	else
 		ft_printf("KO\n");
 }
-void	checker(int count, char **numbers)
+void	checker(t_stack *list_a, t_stack *list_b)
 {
-	t_stack		*list_a;
-	t_stack		*list_b;
 	char		*instruction;
 	t_tab		*table;
 	int			i;
 	
-	list_a = NULL;
-	list_b = NULL;
-	if (create_list(count - 1, numbers + 1, &list_a) == 0)
-	{
-		error(&list_a, &list_b, 0);
-		return ;
-	}
-	print_list(list_a);
+	//print_list(list_a);
 	table = init_table();
-	while (get_next_line(1, &instruction))
+	while (get_next_line(0, &instruction))
 	{
 		i = 0;
 		while (ft_strcmp(instruction, table[i].str) != 0 && ft_strcmp("end", table[i].str) != 0)
@@ -88,9 +79,5 @@ void	checker(int count, char **numbers)
 		if (i == 11)
 			return ;
 	}
-	printf("\n\n");
-	print_list(list_a);
-	printf("\n\n");
-	print_list(list_b);
 	display_check(list_a, list_b);
 }
