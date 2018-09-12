@@ -1,0 +1,3387 @@
+pb
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+ra
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+pb
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+pb
+pb
+ra
+pb
+ra
+pb
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+ra
+pb
+ra
+pb
+ra
+ra
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+ra
+ra
+ra
+ra
+ra
+pb
+pb
+ra
+ra
+pb
+ra
+ra
+pb
+ra
+pb
+pb
+pb
+pb
+pb
+pb
+ra
+pb
+pb
+pb
+pb
+ra
+ra
+ra
+pb
+ra
+ra
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+pb
+pb
+ra
+ra
+pb
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+rb
+rrb
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+pa
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rb
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+rrb
+pa
+MEDIAN = 496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 497
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 494
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 488
+nbr :489
+nbr :487
+nbr :493
+nbr :495
+nbr :494
+nbr :492
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 476
+nbr :481
+nbr :470
+nbr :473
+nbr :475
+nbr :472
+nbr :476
+nbr :478
+nbr :468
+nbr :482
+nbr :471
+nbr :485
+nbr :486
+nbr :491
+nbr :490
+nbr :484
+nbr :488
+nbr :489
+nbr :487
+nbr :493
+nbr :495
+nbr :494
+nbr :492
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 453
+nbr :454
+nbr :451
+nbr :446
+nbr :463
+nbr :467
+nbr :442
+nbr :455
+nbr :443
+nbr :456
+nbr :448
+nbr :444
+nbr :447
+nbr :439
+nbr :449
+nbr :452
+nbr :441
+nbr :445
+nbr :460
+nbr :458
+nbr :466
+nbr :438
+nbr :457
+nbr :462
+nbr :450
+nbr :465
+nbr :477
+nbr :479
+nbr :480
+nbr :469
+nbr :474
+nbr :483
+nbr :481
+nbr :470
+nbr :473
+nbr :475
+nbr :472
+nbr :476
+nbr :478
+nbr :468
+nbr :482
+nbr :471
+nbr :485
+nbr :486
+nbr :491
+nbr :490
+nbr :484
+nbr :488
+nbr :489
+nbr :487
+nbr :493
+nbr :495
+nbr :494
+nbr :492
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 406
+nbr :434
+nbr :377
+nbr :416
+nbr :409
+nbr :427
+nbr :433
+nbr :432
+nbr :423
+nbr :380
+nbr :399
+nbr :428
+nbr :424
+nbr :395
+nbr :397
+nbr :414
+nbr :390
+nbr :406
+nbr :391
+nbr :402
+nbr :422
+nbr :408
+nbr :412
+nbr :384
+nbr :415
+nbr :375
+nbr :398
+nbr :418
+nbr :396
+nbr :411
+nbr :435
+nbr :400
+nbr :403
+nbr :386
+nbr :394
+nbr :393
+nbr :431
+nbr :404
+nbr :387
+nbr :382
+nbr :419
+nbr :417
+nbr :383
+nbr :413
+nbr :379
+nbr :389
+nbr :381
+nbr :420
+nbr :425
+nbr :388
+nbr :410
+nbr :436
+nbr :392
+nbr :401
+nbr :421
+nbr :385
+nbr :461
+nbr :464
+nbr :440
+nbr :459
+nbr :453
+nbr :437
+nbr :454
+nbr :451
+nbr :446
+nbr :463
+nbr :467
+nbr :442
+nbr :455
+nbr :443
+nbr :456
+nbr :448
+nbr :444
+nbr :447
+nbr :439
+nbr :449
+nbr :452
+nbr :441
+nbr :445
+nbr :460
+nbr :458
+nbr :466
+nbr :438
+nbr :457
+nbr :462
+nbr :450
+nbr :465
+nbr :477
+nbr :479
+nbr :480
+nbr :469
+nbr :474
+nbr :483
+nbr :481
+nbr :470
+nbr :473
+nbr :475
+nbr :472
+nbr :476
+nbr :478
+nbr :468
+nbr :482
+nbr :471
+nbr :485
+nbr :486
+nbr :491
+nbr :490
+nbr :484
+nbr :488
+nbr :489
+nbr :487
+nbr :493
+nbr :495
+nbr :494
+nbr :492
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 312
+nbr :261
+nbr :253
+nbr :351
+nbr :338
+nbr :294
+nbr :284
+nbr :298
+nbr :263
+nbr :340
+nbr :251
+nbr :256
+nbr :336
+nbr :287
+nbr :275
+nbr :272
+nbr :326
+nbr :346
+nbr :361
+nbr :334
+nbr :278
+nbr :319
+nbr :277
+nbr :300
+nbr :285
+nbr :266
+nbr :355
+nbr :291
+nbr :292
+nbr :332
+nbr :315
+nbr :288
+nbr :268
+nbr :306
+nbr :250
+nbr :335
+nbr :309
+nbr :316
+nbr :333
+nbr :345
+nbr :357
+nbr :264
+nbr :321
+nbr :349
+nbr :314
+nbr :310
+nbr :369
+nbr :371
+nbr :280
+nbr :320
+nbr :252
+nbr :304
+nbr :303
+nbr :356
+nbr :274
+nbr :325
+nbr :363
+nbr :255
+nbr :290
+nbr :259
+nbr :360
+nbr :269
+nbr :281
+nbr :350
+nbr :337
+nbr :311
+nbr :329
+nbr :265
+nbr :318
+nbr :365
+nbr :286
+nbr :364
+nbr :362
+nbr :374
+nbr :307
+nbr :372
+nbr :276
+nbr :358
+nbr :342
+nbr :262
+nbr :323
+nbr :293
+nbr :330
+nbr :297
+nbr :328
+nbr :301
+nbr :366
+nbr :312
+nbr :299
+nbr :347
+nbr :341
+nbr :367
+nbr :296
+nbr :324
+nbr :258
+nbr :254
+nbr :308
+nbr :270
+nbr :273
+nbr :302
+nbr :257
+nbr :322
+nbr :370
+nbr :267
+nbr :339
+nbr :343
+nbr :354
+nbr :305
+nbr :271
+nbr :260
+nbr :348
+nbr :313
+nbr :344
+nbr :317
+nbr :282
+nbr :352
+nbr :279
+nbr :331
+nbr :430
+nbr :426
+nbr :429
+nbr :378
+nbr :407
+nbr :405
+nbr :376
+nbr :434
+nbr :377
+nbr :416
+nbr :409
+nbr :427
+nbr :433
+nbr :432
+nbr :423
+nbr :380
+nbr :399
+nbr :428
+nbr :424
+nbr :395
+nbr :397
+nbr :414
+nbr :390
+nbr :406
+nbr :391
+nbr :402
+nbr :422
+nbr :408
+nbr :412
+nbr :384
+nbr :415
+nbr :375
+nbr :398
+nbr :418
+nbr :396
+nbr :411
+nbr :435
+nbr :400
+nbr :403
+nbr :386
+nbr :394
+nbr :393
+nbr :431
+nbr :404
+nbr :387
+nbr :382
+nbr :419
+nbr :417
+nbr :383
+nbr :413
+nbr :379
+nbr :389
+nbr :381
+nbr :420
+nbr :425
+nbr :388
+nbr :410
+nbr :436
+nbr :392
+nbr :401
+nbr :421
+nbr :385
+nbr :461
+nbr :464
+nbr :440
+nbr :459
+nbr :453
+nbr :437
+nbr :454
+nbr :451
+nbr :446
+nbr :463
+nbr :467
+nbr :442
+nbr :455
+nbr :443
+nbr :456
+nbr :448
+nbr :444
+nbr :447
+nbr :439
+nbr :449
+nbr :452
+nbr :441
+nbr :445
+nbr :460
+nbr :458
+nbr :466
+nbr :438
+nbr :457
+nbr :462
+nbr :450
+nbr :465
+nbr :477
+nbr :479
+nbr :480
+nbr :469
+nbr :474
+nbr :483
+nbr :481
+nbr :470
+nbr :473
+nbr :475
+nbr :472
+nbr :476
+nbr :478
+nbr :468
+nbr :482
+nbr :471
+nbr :485
+nbr :486
+nbr :491
+nbr :490
+nbr :484
+nbr :488
+nbr :489
+nbr :487
+nbr :493
+nbr :495
+nbr :494
+nbr :492
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+
+MEDIAN = 125
+nbr :150
+nbr :156
+nbr :24
+nbr :207
+nbr :67
+nbr :21
+nbr :144
+nbr :32
+nbr :201
+nbr :68
+nbr :204
+nbr :236
+nbr :130
+nbr :222
+nbr :81
+nbr :136
+nbr :206
+nbr :239
+nbr :29
+nbr :1
+nbr :6
+nbr :243
+nbr :202
+nbr :92
+nbr :218
+nbr :46
+nbr :18
+nbr :96
+nbr :191
+nbr :157
+nbr :177
+nbr :85
+nbr :159
+nbr :69
+nbr :232
+nbr :221
+nbr :180
+nbr :146
+nbr :23
+nbr :5
+nbr :228
+nbr :57
+nbr :36
+nbr :54
+nbr :91
+nbr :59
+nbr :22
+nbr :15
+nbr :151
+nbr :196
+nbr :181
+nbr :183
+nbr :158
+nbr :194
+nbr :240
+nbr :173
+nbr :174
+nbr :225
+nbr :175
+nbr :129
+nbr :63
+nbr :187
+nbr :169
+nbr :247
+nbr :104
+nbr :66
+nbr :138
+nbr :55
+nbr :58
+nbr :154
+nbr :193
+nbr :103
+nbr :95
+nbr :249
+nbr :2
+nbr :70
+nbr :101
+nbr :105
+nbr :229
+nbr :42
+nbr :128
+nbr :82
+nbr :60
+nbr :118
+nbr :90
+nbr :33
+nbr :233
+nbr :166
+nbr :109
+nbr :112
+nbr :20
+nbr :4
+nbr :12
+nbr :83
+nbr :30
+nbr :7
+nbr :199
+nbr :65
+nbr :133
+nbr :10
+nbr :208
+nbr :64
+nbr :244
+nbr :223
+nbr :195
+nbr :76
+nbr :47
+nbr :227
+nbr :142
+nbr :186
+nbr :3
+nbr :27
+nbr :161
+nbr :148
+nbr :197
+nbr :89
+nbr :116
+nbr :80
+nbr :17
+nbr :31
+nbr :86
+nbr :120
+nbr :51
+nbr :84
+nbr :71
+nbr :248
+nbr :171
+nbr :97
+nbr :52
+nbr :72
+nbr :16
+nbr :102
+nbr :188
+nbr :200
+nbr :164
+nbr :235
+nbr :26
+nbr :224
+nbr :176
+nbr :115
+nbr :62
+nbr :163
+nbr :211
+nbr :162
+nbr :111
+nbr :119
+nbr :75
+nbr :38
+nbr :172
+nbr :135
+nbr :126
+nbr :137
+nbr :167
+nbr :61
+nbr :160
+nbr :35
+nbr :73
+nbr :192
+nbr :93
+nbr :143
+nbr :153
+nbr :168
+nbr :213
+nbr :198
+nbr :127
+nbr :141
+nbr :28
+nbr :209
+nbr :145
+nbr :132
+nbr :48
+nbr :216
+nbr :14
+nbr :25
+nbr :106
+nbr :88
+nbr :246
+nbr :121
+nbr :49
+nbr :134
+nbr :212
+nbr :219
+nbr :165
+nbr :74
+nbr :11
+nbr :203
+nbr :152
+nbr :123
+nbr :77
+nbr :50
+nbr :131
+nbr :220
+nbr :234
+nbr :179
+nbr :214
+nbr :124
+nbr :149
+nbr :94
+nbr :215
+nbr :110
+nbr :139
+nbr :147
+nbr :122
+nbr :185
+nbr :44
+nbr :98
+nbr :189
+nbr :37
+nbr :226
+nbr :155
+nbr :184
+nbr :178
+nbr :40
+nbr :19
+nbr :217
+nbr :231
+nbr :107
+nbr :108
+nbr :39
+nbr :117
+nbr :43
+nbr :170
+nbr :45
+nbr :182
+nbr :241
+nbr :0
+nbr :237
+nbr :114
+nbr :34
+nbr :125
+nbr :41
+nbr :53
+nbr :190
+nbr :100
+nbr :113
+nbr :238
+nbr :230
+nbr :9
+nbr :79
+nbr :56
+nbr :205
+nbr :78
+nbr :373
+nbr :353
+nbr :327
+nbr :295
+nbr :359
+nbr :368
+nbr :289
+nbr :283
+nbr :261
+nbr :253
+nbr :351
+nbr :338
+nbr :294
+nbr :284
+nbr :298
+nbr :263
+nbr :340
+nbr :251
+nbr :256
+nbr :336
+nbr :287
+nbr :275
+nbr :272
+nbr :326
+nbr :346
+nbr :361
+nbr :334
+nbr :278
+nbr :319
+nbr :277
+nbr :300
+nbr :285
+nbr :266
+nbr :355
+nbr :291
+nbr :292
+nbr :332
+nbr :315
+nbr :288
+nbr :268
+nbr :306
+nbr :250
+nbr :335
+nbr :309
+nbr :316
+nbr :333
+nbr :345
+nbr :357
+nbr :264
+nbr :321
+nbr :349
+nbr :314
+nbr :310
+nbr :369
+nbr :371
+nbr :280
+nbr :320
+nbr :252
+nbr :304
+nbr :303
+nbr :356
+nbr :274
+nbr :325
+nbr :363
+nbr :255
+nbr :290
+nbr :259
+nbr :360
+nbr :269
+nbr :281
+nbr :350
+nbr :337
+nbr :311
+nbr :329
+nbr :265
+nbr :318
+nbr :365
+nbr :286
+nbr :364
+nbr :362
+nbr :374
+nbr :307
+nbr :372
+nbr :276
+nbr :358
+nbr :342
+nbr :262
+nbr :323
+nbr :293
+nbr :330
+nbr :297
+nbr :328
+nbr :301
+nbr :366
+nbr :312
+nbr :299
+nbr :347
+nbr :341
+nbr :367
+nbr :296
+nbr :324
+nbr :258
+nbr :254
+nbr :308
+nbr :270
+nbr :273
+nbr :302
+nbr :257
+nbr :322
+nbr :370
+nbr :267
+nbr :339
+nbr :343
+nbr :354
+nbr :305
+nbr :271
+nbr :260
+nbr :348
+nbr :313
+nbr :344
+nbr :317
+nbr :282
+nbr :352
+nbr :279
+nbr :331
+nbr :430
+nbr :426
+nbr :429
+nbr :378
+nbr :407
+nbr :405
+nbr :376
+nbr :434
+nbr :377
+nbr :416
+nbr :409
+nbr :427
+nbr :433
+nbr :432
+nbr :423
+nbr :380
+nbr :399
+nbr :428
+nbr :424
+nbr :395
+nbr :397
+nbr :414
+nbr :390
+nbr :406
+nbr :391
+nbr :402
+nbr :422
+nbr :408
+nbr :412
+nbr :384
+nbr :415
+nbr :375
+nbr :398
+nbr :418
+nbr :396
+nbr :411
+nbr :435
+nbr :400
+nbr :403
+nbr :386
+nbr :394
+nbr :393
+nbr :431
+nbr :404
+nbr :387
+nbr :382
+nbr :419
+nbr :417
+nbr :383
+nbr :413
+nbr :379
+nbr :389
+nbr :381
+nbr :420
+nbr :425
+nbr :388
+nbr :410
+nbr :436
+nbr :392
+nbr :401
+nbr :421
+nbr :385
+nbr :461
+nbr :464
+nbr :440
+nbr :459
+nbr :453
+nbr :437
+nbr :454
+nbr :451
+nbr :446
+nbr :463
+nbr :467
+nbr :442
+nbr :455
+nbr :443
+nbr :456
+nbr :448
+nbr :444
+nbr :447
+nbr :439
+nbr :449
+nbr :452
+nbr :441
+nbr :445
+nbr :460
+nbr :458
+nbr :466
+nbr :438
+nbr :457
+nbr :462
+nbr :450
+nbr :465
+nbr :477
+nbr :479
+nbr :480
+nbr :469
+nbr :474
+nbr :483
+nbr :481
+nbr :470
+nbr :473
+nbr :475
+nbr :472
+nbr :476
+nbr :478
+nbr :468
+nbr :482
+nbr :471
+nbr :485
+nbr :486
+nbr :491
+nbr :490
+nbr :484
+nbr :488
+nbr :489
+nbr :487
+nbr :493
+nbr :495
+nbr :494
+nbr :492
+nbr :497
+nbr :496
+nbr :498
+nbr :499
+
+
+
+----------------------
+
+

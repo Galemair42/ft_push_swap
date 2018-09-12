@@ -19,6 +19,18 @@ int		last_elem(t_stack *list)
 		list = list->next;
 	return (list->index);
 }
+int	list_is_sorted(t_stack *list_a, t_stack *list_b)
+{
+	while (list_a->next)
+	{
+		if ((list_a->next)->nb < list_a->nb)
+			return (0);
+		list_a = list_a->next;
+	}
+	if (list_b == NULL)
+		return (1);
+	return (0);
+}
 //void	sort_3elems(t_stack **list_a, t_stack **list_b)
 //{
 //	if (get_list_size(*list_b) == 1)

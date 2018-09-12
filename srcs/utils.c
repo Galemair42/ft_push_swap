@@ -13,15 +13,17 @@
 #include "global.h"
 #include <limits.h>
 
-int		find_smallest(t_stack *list)
+int		find_smallest(t_stack *list, int nb)
 {
 	int smallest;
 
 	smallest = list->index;
-	while (list)
+	while ((list && nb > 0) || (list && nb == -1))
 	{
 		if (list->index < smallest)
 			smallest = list->index;
+		if (nb != -1)
+			nb--;
 		list = list->next;
 	}
 	return (smallest);
