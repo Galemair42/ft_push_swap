@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/20 17:30:38 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/25 20:32:13 by galemair         ###   ########.fr       */
+/*   Updated: 2018/09/12 14:22:56 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,6 +55,9 @@ void			print_list(t_stack *list);
  **-------------CREATE_LIST.C--------
  */
 int				create_list(int count, char **numbers, t_stack **list_a);
+/*
+**--------------UTILS.C--------------
+*/
 void			push_front(t_quick **begin_list);
 
 #endif

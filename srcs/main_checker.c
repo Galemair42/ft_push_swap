@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/16 19:14:15 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/25 20:50:36 by galemair         ###   ########.fr       */
+/*   Updated: 2018/09/12 14:31:54 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,6 @@ int	main(int argc, char **argv)
 			error(&list_a, &list_b, 0);
 			return (0);
 		}
-	//	print_list(list_a);
 		checker(list_a, list_b);
 	}
 	return (0);

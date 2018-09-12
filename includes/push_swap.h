@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/22 14:15:32 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/25 20:33:14 by galemair         ###   ########.fr       */
+/*   Updated: 2018/09/12 17:42:36 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,8 +16,14 @@
 #include "global.h"
 
 # define DISPLAY 1
-
+/*
+**			PSUH_SWAP.C
+*/
 void	push_swap(t_stack *list_a, t_stack *list_b);
+void	sort_list(t_stack **list_a, t_stack **list_b);
+void	sort_b(t_stack **list_a, t_stack **list_b, int to_seek);
+void	quick_sort_to_a(t_stack **list_a, t_stack **list_b, t_quick *quick);
+t_quick *divide_median(t_stack **list_a, t_stack **list_b);
 
 /*
 **			DEBUG.C
@@ -45,5 +51,14 @@ int		find_smallest(t_stack *list, int nb);
 int		last_elem(t_stack *list);
 void	sort_3elems(t_stack **list_a, t_stack **list_b);
 void	check_ss(t_stack **list_a, t_stack **list_b, char list);
-int	list_is_sorted(t_stack *list_a, t_stack *list_b);
+int		list_is_sorted(t_stack *list_a, t_stack *list_b);
+int		find_biggest(t_stack *list_a);
+/*
+**			SMALL_LIST.C
+*/
+void	put_biggest_to_right(t_stack **list_a, t_stack **list_b);
+void	sort_3_elems(t_stack **list_a, t_stack **list_b);
+void	manage_small_list(t_stack **list_a, t_stack **list_b);
+
+
 #endif

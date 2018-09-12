@@ -6,7 +6,7 @@
 /*   By: galemair <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/05/22 15:01:59 by galemair          #+#    #+#             */
-/*   Updated: 2018/05/25 20:00:12 by galemair         ###   ########.fr       */
+/*   Updated: 2018/09/12 11:45:53 by galemair         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,15 +55,16 @@ int		check_superior_value_chandelle(t_stack *list, int median, int nb)
 	}
 	return (superior_value);
 }
+
 int		check_value_in_stack(int value, t_stack *list)
 {
-	int	count; 
+	int	count;
 
 	while (list)
 	{
 		if (list->index == value)
 			return (count);
-				count++;
+		count++;
 		list = list->next;
 	}
 	return (0);
